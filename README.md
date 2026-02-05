@@ -1,1 +1,1 @@
-I build sofwtare
+I build software
